@@ -1,2 +1,1 @@
-Pong-Game made with Python library Kivy
-
+Pong-Game made with Python
