@@ -1,1 +1,1 @@
-"# pong project made with python kivy" 
+pong project made with python kivy 
