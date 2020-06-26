@@ -1,1 +1,1 @@
-Pong_Game
+Pong Game made with Python Kivy
