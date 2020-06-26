@@ -1,1 +1,1 @@
-"# pong project made with python kivy" 
+Pong-Game made with Python library Kivy
